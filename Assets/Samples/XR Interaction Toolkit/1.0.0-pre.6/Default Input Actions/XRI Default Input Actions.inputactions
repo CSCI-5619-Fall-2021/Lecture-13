@@ -158,17 +158,6 @@
             ],
             "bindings": [
                 {
-                    "name": "",
-                    "id": "b34c79c1-ab5e-4851-87ac-abc43705eae0",
-                    "path": "<XRController>{LeftHand}/triggerPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "UI Press",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
                     "name": "Quaternion Fallback",
                     "id": "61466a56-4ee4-47b1-aa6a-4806de1de5f2",
                     "path": "QuaternionFallback",
@@ -475,6 +464,17 @@
                     "action": "Translate Anchor",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "347999eb-88f0-4545-9207-5fe07357b36f",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerLeft>{LeftHand}/triggertouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "UI Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
@@ -755,8 +755,8 @@
                 },
                 {
                     "name": "",
-                    "id": "92bb5b8f-bf48-4dab-af05-50a865773895",
-                    "path": "<XRController>{RightHand}/triggerPressed",
+                    "id": "713182bc-e10b-4307-9970-8667a07af0e1",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerRight>{RightHand}/triggertouched",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
