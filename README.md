@@ -1,10 +1,12 @@
-# Lecture 13: Grasping and Pointing
+# Lecture 13: Grabbing and Pointing
 
 Detailed explanation of this code can be found in the lecture video (will be uploaded after class).
 
 ## Topics
 
-TBD
+1. Writing a custom grabber script
+2. Configuring rigid body physics when grabbing
+3. Passing objects between hands
 
 ## Acknowledgments
 
