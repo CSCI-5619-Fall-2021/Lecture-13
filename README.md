@@ -1,6 +1,6 @@
 # Lecture 13: Grabbing and Pointing
 
-Detailed explanation of this code can be found in the lecture video (will be uploaded after class).
+Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_i4stcana).
 
 ## Topics
 
@@ -8,6 +8,10 @@ Detailed explanation of this code can be found in the lecture video (will be upl
 2. Configuring rigid body physics when grabbing
 3. Passing objects between hands
 4. Writing a custom pointing script
+
+## Participation Exercise
+
+Download [Lecture-13.apk](https://canvas.umn.edu/files/23886732/download?download_frd=1) from Canvas and install the file on your Oculus Quest.  To get participation credit, submit a screenshot of the view inside the headset while grabbing the soccer ball on the table.  You can either use [SideQuest](https://sidequestvr.com/) (Windows only) or [Oculus casting](https://www.oculus.com/casting) (Windows or Mac) to stream the headset view to your computer.  
 
 ## Acknowledgments
 
